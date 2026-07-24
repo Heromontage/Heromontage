@@ -15,3 +15,7 @@
 - ⚡ Fun fact: ...
      Don't expect anything from anyone and your life will be good.
 
+```md
+   ![GitHub jet heatmap](https://raw.githubusercontent.com/Heromontage/Heromontage/main/dist/github-jet.svg)
+```
+
