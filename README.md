@@ -1,21 +1,17 @@
-### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="Living terminal profile panel" src="./dark.svg" width="100%">
+</picture>
 
+<p align="center">
+  <img src="./dist/github-jet.svg" alt="Animated GitHub contribution jet heatmap" width="100%">
+</p>
 
-**Heromontage/Vaibhav
+### Hi, I'm Vaibhav 👋
 
-- 🔭 I’m currently working on ...
-     Ai,physics,oops,dsa and editing/designing.
-- 🌱 I’m currently learning ...
-     Python,sql,c++
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-     My studies and work.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
-     Don't expect anything from anyone and your life will be good.
+I build with JavaScript, Python, and C++, and I like turning ideas into interactive projects.
 
-```md
-   ![GitHub jet heatmap](https://raw.githubusercontent.com/Heromontage/Heromontage/main/dist/github-jet.svg)
-```
-
+- 🔭 Current focus: AI, physics, OOP, DSA, and creative editing/design
+- 🌱 Learning: Python, SQL, and C++
+- 💬 Ask me about: studies, projects, and practical problem-solving
