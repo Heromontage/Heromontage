@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Profile terminal light">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Profile terminal light">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#f8fbff"/>
@@ -24,7 +24,7 @@
   <text x="52" y="78" fill="#0284c7" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13">VISUAL.MAP</text>
   <line x1="42" y1="84" x2="526" y2="84" stroke="#dbeafe"/>
 
-  <image href="./profile.jpg" x="42" y="88" width="470" height="286" preserveAspectRatio="xMidYMid meet" clip-path="url(#avatarClip)"/>
+  <image x="42" y="88" width="470" height="286" preserveAspectRatio="xMidYMid meet" clip-path="url(#avatarClip)" xlink:href="https://raw.githubusercontent.com/Heromontage/Heromontage/main/profile.jpg"/>
 
   <rect x="542" y="58" width="622" height="320" rx="12" fill="none" stroke="#38bdf8"/>
   <text x="558" y="78" fill="#0284c7" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13">SYSTEM.INFO</text>
