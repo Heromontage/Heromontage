@@ -8,10 +8,10 @@
   <img src="./dist/github-jet.svg" alt="Animated GitHub contribution jet heatmap" width="100%">
 </p>
 
-### Hi, I'm Vaibhav 👋
+### Hi, I'm VAIBHAV CHAUDHARY 👋
 
-I build with JavaScript, Python, and C++, and I like turning ideas into interactive projects.
+I am a Developer.
 
-- 🔭 Current focus: AI, physics, OOP, DSA, and creative editing/design
-- 🌱 Learning: Python, SQL, and C++
-- 💬 Ask me about: studies, projects, and practical problem-solving
+- 🔭 Current focus: Building practical and interactive projects
+- 🌱 Learning: JavaScript, Python, and C++
+- 💬 Ask me about: development, projects, and problem-solving
