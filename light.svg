@@ -24,7 +24,7 @@
   <text x="52" y="78" fill="#0284c7" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13">VISUAL.MAP</text>
   <line x1="42" y1="84" x2="526" y2="84" stroke="#dbeafe"/>
 
-  <image href="./profile.jpg" x="42" y="88" width="470" height="286" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
+  <image href="./profile.jpg" x="42" y="88" width="470" height="286" preserveAspectRatio="xMidYMid meet" clip-path="url(#avatarClip)"/>
 
   <rect x="542" y="58" width="622" height="320" rx="12" fill="none" stroke="#38bdf8"/>
   <text x="558" y="78" fill="#0284c7" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13">SYSTEM.INFO</text>
