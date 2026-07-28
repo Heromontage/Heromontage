@@ -1,14 +1,16 @@
-# Plan: Replace profile image with ASCII art in dark.svg and light.svg
+# Plan: Get ASCII animation for live terminal from GitHub repo
 
 ## Global Constraints
-- The ASCII art must be generated from the current profile.jpg (the same one used in the SVG).
-- The ASCII art must fit within the existing avatar clip region (x="42" y="88" width="470" height="286").
-- Use a monospace font and appropriate font size to fit the art.
-- For dark.svg, use light text color (#d8e5ff). For light.svg, use dark text color (#0f172a).
-- Preserve the existing clip-path (id="avatarClip") for the ASCII art.
+- The ASCII animation must be exactly as in the GitHub repository: https://github.com/Sushmitadasari/Sushmitadasari.git
+- The animation should be runnable in a typical terminal (bash, zsh, etc.) without dependencies beyond standard utilities.
+- If the animation is a script, it should be placed in the repository and made executable.
+- If the animation is a static file, we may need to create a viewer script to display it in the terminal.
 
 ## Tasks
-
-1. Generate ASCII art from profile.jpg with width 45 (or appropriate) and save ascii.txt.
-2. Update dark.svg: replace the <image> element with a <text> element containing the ASCII art from ascii.txt.
-3. Update light.svg: similarly replace the <image> element with a <text> element containing the ASCII art.
+### Task 1: Clone the GitHub repository to a temporary location and examine its contents.
+### Task 2: Identify the file(s) that contain the ASCII animation for live terminal.
+### Task 3: Determine how the animation is displayed (e.g., a bash script using echo with ANSI escapes, or a program like `cmatrix`).
+### Task 4: Copy the relevant file(s) to our repository, preserving the original functionality.
+### Task 5: If necessary, create a wrapper script to make the animation easy to run (e.g., `./ascii_animation.sh`).
+### Task 6: Test the animation in a terminal to ensure it works as expected.
+### Task 7: Document how to run the animation in the README or a comment in the script.
